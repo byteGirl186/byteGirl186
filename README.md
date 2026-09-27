@@ -33,6 +33,15 @@
 ![Asmae's GitHub stats](https://github-readme-stats.vercel.app/api?username=byteGirl186&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byteGirl186&layout=compact&theme=radical)
 
+## 📫 Contact Me & Hire Me
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212611143391)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byteGirl186@gmail.com)
+[![Location](https://img.shields.io/badge/From-Sale%2C%20Morocco-FF4088?style=for-the-badge&logo=googlemaps&logoColor=white)](https://wa.me/212611143391)
+
+> 💬 **Need a website? Click WhatsApp to chat with me directly!** 🚀
+> 📍 From Sale, Morocco - Available for freelance projects worldwide!
+
 ---
 
 ### 📫 Connect with me
